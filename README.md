@@ -25,7 +25,7 @@ This project is a collection of my progress and understanding of the concepts in
 ## Getting Started
 
 ### Prerequisites
-- The repository uses Python. If you haven't installed Python, [download it here](link-to-python-download).
+- The repository uses Python. If you haven't installed Python, [download it here]([ink-to-python-download](https://www.python.org/downloads/)).
 
 ### How to Use
 - Clone this repository
